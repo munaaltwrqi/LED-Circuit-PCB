@@ -21,7 +21,7 @@ A simple PCB design project featuring a 5V LED circuit with a resistor, designed
 
 ### 3. 3D View (Top)
 > Top-down 3D preview of the board to illustrate component placement and board details.
-<img width="2877" height="1567" alt="Image 21-02-1448 AH at 4 05 PM" src="https://github.com/user-attachments/assets/7e232738-fc65-480b-b422-f807cda83f80" />
+<img width="2877" height="1556" alt="Image 21-02-1448 AH at 4 01 PM" src="https://github.com/user-attachments/assets/becc369b-ffcc-469f-ab6f-cdb57f522cee" />
 
 ## 📁 Repository Structure
 * `Gerber/` - Contains the manufacturing files (Gerber files and drill files) required for PCB fabrication.
