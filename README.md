@@ -1,6 +1,6 @@
 # LED Circuit PCB Project
 
-A simple PCB design project featuring a 5V LED circuit with a resistor, designed and routed using EasyEDA for an academic task.
+A simple PCB design project featuring a 5V LED circuit with a resistor, designed and routed using EasyEDA 
 
 ## 🛠️ Components Used
 * Power Supply: 5V DC (Connector `H1`)
