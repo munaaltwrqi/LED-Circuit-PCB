@@ -25,7 +25,6 @@ A simple PCB design project featuring a 5V LED circuit with a resistor, designed
 
 ## 📁 Repository Structure
 * `Gerber/` - Contains the manufacturing files (Gerber files and drill files) required for PCB fabrication.
-* `Images/` - Includes the 2D layout and 3D view previews of the circuit board.
 
 ## 💻 Software Used
 * EasyEDA (Standard Edition)
